@@ -1,0 +1,52 @@
+
+# ✅ GitHub Portfolio Checklist
+
+## 📂 Repositories to Create
+- [ ] `etl-pipelines`
+- [ ] `spark-notebooks`
+- [ ] `data-models`
+- [ ] `automation-scripts`
+
+---
+
+## ✅ ETL Pipelines
+- [ ] Choose a dataset (Kaggle / Open Data)
+- [ ] Implement ETL flow (Extract → Transform → Load)
+- [ ] Use Python (pandas) or PySpark
+- [ ] Add README with:
+  - Project overview
+  - Tech stack
+  - How to run
+- [ ] Include sample data or link to source
+
+---
+
+## ✅ Spark Notebooks
+- [ ] Create notebooks in Databricks or local Spark
+- [ ] Demonstrate:
+  - Data ingestion
+  - Transformations
+  - Delta Lake operations
+- [ ] Export as `.ipynb` or `.dbc`
+- [ ] Add README with:
+  - Setup instructions
+  - Screenshots of results
+
+---
+
+## ✅ Data Modeling Diagrams
+- [ ] Design Star Schema or Lakehouse architecture
+- [ ] Use draw.io / Lucidchart / dbdiagram.io
+- [ ] Export diagrams as PNG/SVG
+- [ ] Add README explaining design choices
+
+---
+
+## ✅ Automation Scripts
+- [ ] Write Python scripts for:
+  - Scheduling ETL jobs
+  - File handling
+- [ ] Add GitHub Actions workflow YAML
+- [ ] Add README with:
+  - Purpose
+  - How to run
